@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Selectdata</string>
+    <string-array  name="Spinner_option">
+        <item>mA</item>
+        <item>A</item>
+        <item>KA</item>
+
+    </string-array>
+</resources>
